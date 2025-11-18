@@ -21,7 +21,7 @@ app.use(cookieParser());
 
 
 app.use(cors({
-  origin: 'http://localhost:5174', 
+  origin: 'https://e-store-27rm-git-main-kelvinkipchumbas-projects.vercel.app/', 
   credentials: true, 
 }));
 
